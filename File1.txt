@@ -1,6 +1,6 @@
 New line of code
 
-Second line of code
+Conflict created
 
 Third line of code
 
